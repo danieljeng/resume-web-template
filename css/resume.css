@@ -1,0 +1,117 @@
+
+.progress {
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.6);
+}
+
+.container-resume {
+    width: 830px;
+}
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-name {
+    font-size: 35px;
+}
+
+.header-last-name {
+    color: darkblue;
+    margin-left: 10px;
+}
+
+.header-divider {
+    margin-top: 3px;
+    margin-bottom: 5px;
+    border-top: 1px dashed black;
+}
+
+.header-icon {
+    color: #3333ff;
+}
+
+.header-icon-value {
+    left: 40px;
+    position: absolute;
+}
+
+.employability-status-text {
+    font-size: small;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.progress-resume {
+    /*border: 1px solid black;*/
+    margin-bottom: 5px;
+    height: 20px;
+}
+
+.progress-bar-resume {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.text-dates {
+    color: maroon;
+}
+
+.work-experience-divider {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid lightgrey;
+}
+
+.section-divider {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid black;
+}
+
+.section-header-icon-button {
+    padding: 5px;
+    padding-bottom: 0px;
+    background-color: #000066;
+}
+
+.section-header-icon {
+    font-size: 1.5em;
+}
+
+.section-header-text {
+    font-size: 20px;
+    margin-left: 10px;
+    vertical-align: middle;
+    color: #000066;
+}
+
+.section-work-experience {
+    font-size: small;
+}
+
+.entity-name {
+    color: darkblue;
+}
+
+.education-text {
+    position: absolute;
+    left: 70px;
+}
+
+.interest-text {
+    position: absolute;
+    left: 45px;
+}
+
+
+
+.m-t-3  { margin-top: 3px; }
+.m-t-5  { margin-top: 5px; }
+.m-t-10 { margin-top: 10px; }
+.m-t-15 { margin-top: 15px; }
+
+.m-l-10 { margin-left: 10px; }
+.m-l-20 { margin-left: 20px; }
+.m-l-40 { margin-left: 40px; }
